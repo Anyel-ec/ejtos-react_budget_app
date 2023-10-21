@@ -1,14 +1,12 @@
 # Project Name
 
 This project is a web application developed in React that uses npm and yarn for package management.
+![Captura de pantalla de la aplicación](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0210EN-SkillsNetwork/labs/Final%20project-budget%20app/images/practicefinal.png)
+
 
 ## Description
 
 The web application allows users to perform a series of tasks related to X. Users can do the following:
-
-- Task 1
-- Task 2
-- Task 3
 
 The application uses a series of React components to display information and allow user interaction. It also uses a series of npm and yarn packages for dependency management and project building.
 
