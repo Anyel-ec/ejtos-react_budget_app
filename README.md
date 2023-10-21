@@ -1,7 +1,7 @@
 # Project Name
 
 This project is a web application developed in React that uses npm and yarn for package management.
-![Captura de pantalla de la aplicación](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0210EN-SkillsNetwork/labs/Final%20project-budget%20app/images/practicefinal.png)
+[![Ver video](https://img.youtube.com/vi/ZS6XKohoRTI/maxresdefault.jpg)](https://youtu.be/ZS6XKohoRTI)
 
 
 ## Description
